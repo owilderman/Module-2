@@ -1,0 +1,5 @@
+#Ignore all .exe
+*.exe
+
+#Ignore all DS
+.DS_Store

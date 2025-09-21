@@ -1,0 +1,11 @@
+#Ignore All .png
+*.png
+
+#Ingore All .exe
+*.exe
+#Exception rule
+!music.exe
+
+build
+build/
+**/configs
