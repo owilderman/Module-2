@@ -1,5 +1,6 @@
 #Ignore All .png
 *.png
+!Family_Photo.png
 
 #Ingore All .exe
 *.exe
